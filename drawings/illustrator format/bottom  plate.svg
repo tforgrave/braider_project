@@ -1,0 +1,1019 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.1"
+   width="744.09448"
+   height="1052.3622"
+   id="svg3821">
+  <desc
+     id="desc3823">C:\Users\groot\Dropbox\braider project\drawings\dxf format\bottom  plate.DXF - scale = 19.090909</desc>
+  <metadata
+     id="metadata4463">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3825">
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="DistanceX"
+       style="overflow:visible">
+      <path
+         d="M 3,-3 -3,3 M 0,-5 0,5"
+         id="path3828"
+         style="stroke:#000000;stroke-width:0.5" />
+    </marker>
+    <pattern
+       id="Hatch"
+       x="0"
+       y="0"
+       patternUnits="userSpaceOnUse"
+       width="8"
+       height="8">
+      <path
+         id="path3831"
+         d="M8 4 l-4,4"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square" />
+      <path
+         id="path3833"
+         d="M6 2 l-4,4"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square" />
+      <path
+         id="path3835"
+         d="M4 0 l-4,4"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square" />
+    </pattern>
+    <symbol
+       id="*Model_Space" />
+    <symbol
+       id="*Paper_Space" />
+    <symbol
+       id="*Paper_Space0" />
+    <symbol
+       id="SW_NOTE_0">
+      <text
+         x="0"
+         y="1047.1302"
+         id="text3841"
+         style="font-size:4.0999999px;line-height:125%;fill:#000000;font-family:Arial">
+        <tspan
+           x="0"
+           y="1047.1302"
+           id="tspan3843">INTERPRET GEOMETRIC</tspan>
+      </text>
+      <text
+         x="0"
+         y="1053.8522"
+         id="text3845"
+         style="font-size:4.0999999px;line-height:125%;fill:#000000;font-family:Arial">
+        <tspan
+           x="0"
+           y="1053.8522"
+           id="tspan3847">TOLERANCING PER:</tspan>
+      </text>
+    </symbol>
+    <symbol
+       id="SW_NOTE_1">
+      <text
+         x="0"
+         y="1046.6942"
+         id="text3850"
+         style="font-size:4.4000001px;line-height:125%;fill:#000000;font-family:Arial">
+        <tspan
+           x="0"
+           y="1046.6942"
+           id="tspan3852">DIMENSIONS ARE IN INCHES</tspan>
+      </text>
+      <text
+         x="0"
+         y="1053.7544"
+         id="text3854"
+         style="font-size:4.4000001px;line-height:125%;fill:#000000;font-family:Arial">
+        <tspan
+           x="0"
+           y="1053.7544"
+           id="tspan3856">TOLERANCES:</tspan>
+      </text>
+      <text
+         x="0"
+         y="1060.8145"
+         id="text3858"
+         style="font-size:4.4000001px;line-height:125%;fill:#000000;font-family:Arial">
+        <tspan
+           x="0"
+           y="1060.8145"
+           id="tspan3860">FRACTIONAL</tspan>
+      </text>
+      <text
+         x="35.012016"
+         y="1060.8145"
+         id="text3862"
+         style="font-size:4.4000001px;line-height:125%;fill:#000000;font-family:Arial">
+        <tspan
+           x="35.012016"
+           y="1060.8145"
+           id="tspan3864">%%p</tspan>
+      </text>
+      <text
+         x="0"
+         y="1067.8746"
+         id="text3866"
+         style="font-size:4.4000001px;line-height:125%;fill:#000000;font-family:Arial">
+        <tspan
+           x="0"
+           y="1067.8746"
+           id="tspan3868">ANGULAR: MACH</tspan>
+      </text>
+      <text
+         x="48.932552"
+         y="1067.8746"
+         id="text3870"
+         style="font-size:4.4000001px;line-height:125%;fill:#000000;font-family:Arial">
+        <tspan
+           x="48.932552"
+           y="1067.8746"
+           id="tspan3872">%%p</tspan>
+      </text>
+      <text
+         x="61.364849"
+         y="1067.8746"
+         id="text3874"
+         style="font-size:4.4000001px;line-height:125%;fill:#000000;font-family:Arial">
+        <tspan
+           x="61.364849"
+           y="1067.8746"
+           id="tspan3876">BEND</tspan>
+      </text>
+      <text
+         x="77.645668"
+         y="1067.8746"
+         id="text3878"
+         style="font-size:4.4000001px;line-height:125%;fill:#000000;font-family:Arial">
+        <tspan
+           x="77.645668"
+           y="1067.8746"
+           id="tspan3880">%%p</tspan>
+      </text>
+      <text
+         x="0"
+         y="1074.9347"
+         id="text3882"
+         style="font-size:4.4000001px;line-height:125%;fill:#000000;font-family:Arial">
+        <tspan
+           x="0"
+           y="1074.9347"
+           id="tspan3884">TWO PLACE DECIMAL</tspan>
+      </text>
+      <text
+         x="66.25383"
+         y="1074.9347"
+         id="text3886"
+         style="font-size:4.4000001px;line-height:125%;fill:#000000;font-family:Arial">
+        <tspan
+           x="66.25383"
+           y="1074.9347"
+           id="tspan3888">%%p</tspan>
+      </text>
+      <text
+         x="0"
+         y="1081.9949"
+         id="text3890"
+         style="font-size:4.4000001px;line-height:125%;fill:#000000;font-family:Arial">
+        <tspan
+           x="0"
+           y="1081.9949"
+           id="tspan3892">THREE PLACE DECIMAL</tspan>
+      </text>
+      <text
+         x="65.87291"
+         y="1081.9949"
+         id="text3894"
+         style="font-size:4.4000001px;line-height:125%;fill:#000000;font-family:Arial">
+        <tspan
+           x="65.87291"
+           y="1081.9949"
+           id="tspan3896">%%p</tspan>
+      </text>
+    </symbol>
+    <symbol
+       id="SW_NOTE_2">
+      <text
+         x="0"
+         y="1047.1302"
+         id="text3899"
+         style="font-size:4.0999999px;line-height:125%;fill:#000000;font-family:Arial">
+        <tspan
+           x="0"
+           y="1047.1302"
+           id="tspan3901">THE INFORMATION CONTAINED IN THIS</tspan>
+      </text>
+      <text
+         x="0"
+         y="1053.8522"
+         id="text3903"
+         style="font-size:4.0999999px;line-height:125%;fill:#000000;font-family:Arial">
+        <tspan
+           x="0"
+           y="1053.8522"
+           id="tspan3905">DRAWING IS THE SOLE PROPERTY OF</tspan>
+      </text>
+      <text
+         x="0"
+         y="1060.5741"
+         id="text3907"
+         style="font-size:4.0999999px;line-height:125%;fill:#000000;font-family:Arial">
+        <tspan
+           x="0"
+           y="1060.5741"
+           id="tspan3909">&lt;INSERT COMPANY NAME HERE&gt;. ANY</tspan>
+      </text>
+      <text
+         x="0"
+         y="1067.2959"
+         id="text3911"
+         style="font-size:4.0999999px;line-height:125%;fill:#000000;font-family:Arial">
+        <tspan
+           x="0"
+           y="1067.2959"
+           id="tspan3913">REPRODUCTION IN PART OR AS A WHOLE</tspan>
+      </text>
+      <text
+         x="0"
+         y="1074.0178"
+         id="text3915"
+         style="font-size:4.0999999px;line-height:125%;fill:#000000;font-family:Arial">
+        <tspan
+           x="0"
+           y="1074.0178"
+           id="tspan3917">WITHOUT THE WRITTEN PERMISSION OF</tspan>
+      </text>
+      <text
+         x="0"
+         y="1080.7397"
+         id="text3919"
+         style="font-size:4.0999999px;line-height:125%;fill:#000000;font-family:Arial">
+        <tspan
+           x="0"
+           y="1080.7397"
+           id="tspan3921">&lt;INSERT COMPANY NAME HERE&gt; IS</tspan>
+      </text>
+      <text
+         x="0"
+         y="1087.4615"
+         id="text3923"
+         style="font-size:4.0999999px;line-height:125%;fill:#000000;font-family:Arial">
+        <tspan
+           x="0"
+           y="1087.4615"
+           id="tspan3925">PROHIBITED.</tspan>
+      </text>
+    </symbol>
+    <symbol
+       id="SW_CENTERMARKSYMBOL_0">
+      <path
+         d="m 0,1052.3622 0,-6.7645"
+         id="path3928"
+         style="fill:none;stroke:#000000;stroke-linecap:round" />
+      <path
+         d="m 0,1052.3622 -6.764495,0"
+         id="path3930"
+         style="fill:none;stroke:#000000;stroke-linecap:round" />
+      <path
+         d="m 0,1052.3622 0,6.7645"
+         id="path3932"
+         style="fill:none;stroke:#000000;stroke-linecap:round" />
+      <path
+         d="m 0,1052.3622 6.764495,0"
+         id="path3934"
+         style="fill:none;stroke:#000000;stroke-linecap:round" />
+      <path
+         d="M 0,1038.8332 0,979.01803"
+         id="path3936"
+         style="fill:none;stroke:#000000;stroke-linecap:round" />
+      <path
+         d="m -13.528991,1052.3622 -59.815183,0"
+         id="path3938"
+         style="fill:none;stroke:#000000;stroke-linecap:round" />
+      <path
+         d="m 0,1065.8912 0,59.8152"
+         id="path3940"
+         style="fill:none;stroke:#000000;stroke-linecap:round" />
+      <path
+         d="m 13.528991,1052.3622 59.815183,0"
+         id="path3942"
+         style="fill:none;stroke:#000000;stroke-linecap:round" />
+    </symbol>
+    <symbol
+       id="SW_DOWELSYMBOL_0">
+      <path
+         d="m 6.657968,1052.3622 a 6.657968,6.657968 0 1 0 -13.315936,0 6.657968,6.657968 0 1 0 13.315936,0 z"
+         id="path3945"
+         style="fill:none;stroke:#000000;stroke-linecap:round" />
+      <path
+         d="M 6.657968,1052.3622 A 6.657968,6.657968 0 0 0 0,1059.0202 l 0,-6.658 6.657968,0 z"
+         id="path3947"
+         style="fill:#000000" />
+      <path
+         d="M -6.657968,1052.3622 A 6.657968,6.657968 0 0 0 0,1045.7042 l 0,6.658 -6.657968,0 z"
+         id="path3949"
+         style="fill:#000000" />
+    </symbol>
+    <symbol
+       id="SW_DOWELSYMBOL_1">
+      <path
+         d="m 6.657968,1052.3622 a 6.657968,6.657968 0 1 0 -13.315936,0 6.657968,6.657968 0 1 0 13.315936,0 z"
+         id="path3952"
+         style="fill:none;stroke:#000000;stroke-linecap:round" />
+      <path
+         d="M 6.657968,1052.3622 A 6.657968,6.657968 0 0 0 0,1059.0202 l 0,-6.658 6.657968,0 z"
+         id="path3954"
+         style="fill:#000000" />
+      <path
+         d="M -6.657968,1052.3622 A 6.657968,6.657968 0 0 0 0,1045.7042 l 0,6.658 -6.657968,0 z"
+         id="path3956"
+         style="fill:#000000" />
+    </symbol>
+    <symbol
+       id="SW_DOWELSYMBOL_2">
+      <path
+         d="m 6.657968,1052.3622 a 6.657968,6.657968 0 1 0 -13.315936,0 6.657968,6.657968 0 1 0 13.315936,0 z"
+         id="path3959"
+         style="fill:none;stroke:#000000;stroke-linecap:round" />
+      <path
+         d="M 6.657968,1052.3622 A 6.657968,6.657968 0 0 0 0,1059.0202 l 0,-6.658 6.657968,0 z"
+         id="path3961"
+         style="fill:#000000" />
+      <path
+         d="M -6.657968,1052.3622 A 6.657968,6.657968 0 0 0 0,1045.7042 l 0,6.658 -6.657968,0 z"
+         id="path3963"
+         style="fill:#000000" />
+    </symbol>
+    <symbol
+       id="SW_DOWELSYMBOL_3">
+      <path
+         d="m 6.657968,1052.3622 a 6.657968,6.657968 0 1 0 -13.315936,0 6.657968,6.657968 0 1 0 13.315936,0 z"
+         id="path3966"
+         style="fill:none;stroke:#000000;stroke-linecap:round" />
+      <path
+         d="M 6.657968,1052.3622 A 6.657968,6.657968 0 0 0 0,1059.0202 l 0,-6.658 6.657968,0 z"
+         id="path3968"
+         style="fill:#000000" />
+      <path
+         d="M -6.657968,1052.3622 A 6.657968,6.657968 0 0 0 0,1045.7042 l 0,6.658 -6.657968,0 z"
+         id="path3970"
+         style="fill:#000000" />
+    </symbol>
+    <symbol
+       id="SW_DOWELSYMBOL_4">
+      <path
+         d="m 6.657968,1052.3622 a 6.657968,6.657968 0 1 0 -13.315936,0 6.657968,6.657968 0 1 0 13.315936,0 z"
+         id="path3973"
+         style="fill:none;stroke:#000000;stroke-linecap:round" />
+      <path
+         d="M 6.657968,1052.3622 A 6.657968,6.657968 0 0 0 0,1059.0202 l 0,-6.658 6.657968,0 z"
+         id="path3975"
+         style="fill:#000000" />
+      <path
+         d="M -6.657968,1052.3622 A 6.657968,6.657968 0 0 0 0,1045.7042 l 0,6.658 -6.657968,0 z"
+         id="path3977"
+         style="fill:#000000" />
+    </symbol>
+    <symbol
+       id="SW_DOWELSYMBOL_5">
+      <path
+         d="m 6.657968,1052.3622 a 6.657968,6.657968 0 1 0 -13.315936,0 6.657968,6.657968 0 1 0 13.315936,0 z"
+         id="path3980"
+         style="fill:none;stroke:#000000;stroke-linecap:round" />
+      <path
+         d="M 6.657968,1052.3622 A 6.657968,6.657968 0 0 0 0,1059.0202 l 0,-6.658 6.657968,0 z"
+         id="path3982"
+         style="fill:#000000" />
+      <path
+         d="M -6.657968,1052.3622 A 6.657968,6.657968 0 0 0 0,1045.7042 l 0,6.658 -6.657968,0 z"
+         id="path3984"
+         style="fill:#000000" />
+    </symbol>
+    <symbol
+       id="SW_DOWELSYMBOL_6">
+      <path
+         d="m 6.657968,1052.3622 a 6.657968,6.657968 0 1 0 -13.315936,0 6.657968,6.657968 0 1 0 13.315936,0 z"
+         id="path3987"
+         style="fill:none;stroke:#000000;stroke-linecap:round" />
+      <path
+         d="M 6.657968,1052.3622 A 6.657968,6.657968 0 0 0 0,1059.0202 l 0,-6.658 6.657968,0 z"
+         id="path3989"
+         style="fill:#000000" />
+      <path
+         d="M -6.657968,1052.3622 A 6.657968,6.657968 0 0 0 0,1045.7042 l 0,6.658 -6.657968,0 z"
+         id="path3991"
+         style="fill:#000000" />
+    </symbol>
+    <symbol
+       id="SW_DOWELSYMBOL_7">
+      <path
+         d="m 6.657968,1052.3622 a 6.657968,6.657968 0 1 0 -13.315936,0 6.657968,6.657968 0 1 0 13.315936,0 z"
+         id="path3994"
+         style="fill:none;stroke:#000000;stroke-linecap:round" />
+      <path
+         d="M 6.657968,1052.3622 A 6.657968,6.657968 0 0 0 0,1059.0202 l 0,-6.658 6.657968,0 z"
+         id="path3996"
+         style="fill:#000000" />
+      <path
+         d="M -6.657968,1052.3622 A 6.657968,6.657968 0 0 0 0,1045.7042 l 0,6.658 -6.657968,0 z"
+         id="path3998"
+         style="fill:#000000" />
+    </symbol>
+    <symbol
+       id="SW_DOWELSYMBOL_8">
+      <path
+         d="m 6.657968,1052.3622 a 6.657968,6.657968 0 1 0 -13.315936,0 6.657968,6.657968 0 1 0 13.315936,0 z"
+         id="path4001"
+         style="fill:none;stroke:#000000;stroke-linecap:round" />
+      <path
+         d="M 6.657968,1052.3622 A 6.657968,6.657968 0 0 0 0,1059.0202 l 0,-6.658 6.657968,0 z"
+         id="path4003"
+         style="fill:#000000" />
+      <path
+         d="M -6.657968,1052.3622 A 6.657968,6.657968 0 0 0 0,1045.7042 l 0,6.658 -6.657968,0 z"
+         id="path4005"
+         style="fill:#000000" />
+    </symbol>
+    <symbol
+       id="SW_DOWELSYMBOL_9">
+      <path
+         d="m 6.657968,1052.3622 a 6.657968,6.657968 0 1 0 -13.315936,0 6.657968,6.657968 0 1 0 13.315936,0 z"
+         id="path4008"
+         style="fill:none;stroke:#000000;stroke-linecap:round" />
+      <path
+         d="M 6.657968,1052.3622 A 6.657968,6.657968 0 0 0 0,1059.0202 l 0,-6.658 6.657968,0 z"
+         id="path4010"
+         style="fill:#000000" />
+      <path
+         d="M -6.657968,1052.3622 A 6.657968,6.657968 0 0 0 0,1045.7042 l 0,6.658 -6.657968,0 z"
+         id="path4012"
+         style="fill:#000000" />
+    </symbol>
+    <symbol
+       id="SW_DOWELSYMBOL_10">
+      <path
+         d="m 6.657968,1052.3622 a 6.657968,6.657968 0 1 0 -13.315936,0 6.657968,6.657968 0 1 0 13.315936,0 z"
+         id="path4015"
+         style="fill:none;stroke:#000000;stroke-linecap:round" />
+      <path
+         d="M 6.657968,1052.3622 A 6.657968,6.657968 0 0 0 0,1059.0202 l 0,-6.658 6.657968,0 z"
+         id="path4017"
+         style="fill:#000000" />
+      <path
+         d="M -6.657968,1052.3622 A 6.657968,6.657968 0 0 0 0,1045.7042 l 0,6.658 -6.657968,0 z"
+         id="path4019"
+         style="fill:#000000" />
+    </symbol>
+    <symbol
+       id="SW_DOWELSYMBOL_11">
+      <path
+         d="m 6.657968,1052.3622 a 6.657968,6.657968 0 1 0 -13.315936,0 6.657968,6.657968 0 1 0 13.315936,0 z"
+         id="path4022"
+         style="fill:none;stroke:#000000;stroke-linecap:round" />
+      <path
+         d="M 6.657968,1052.3622 A 6.657968,6.657968 0 0 0 0,1059.0202 l 0,-6.658 6.657968,0 z"
+         id="path4024"
+         style="fill:#000000" />
+      <path
+         d="M -6.657968,1052.3622 A 6.657968,6.657968 0 0 0 0,1045.7042 l 0,6.658 -6.657968,0 z"
+         id="path4026"
+         style="fill:#000000" />
+    </symbol>
+    <symbol
+       id="SW_DOWELSYMBOL_12">
+      <path
+         d="m 6.657968,1052.3622 a 6.657968,6.657968 0 1 0 -13.315936,0 6.657968,6.657968 0 1 0 13.315936,0 z"
+         id="path4029"
+         style="fill:none;stroke:#000000;stroke-linecap:round" />
+      <path
+         d="M 6.657968,1052.3622 A 6.657968,6.657968 0 0 0 0,1059.0202 l 0,-6.658 6.657968,0 z"
+         id="path4031"
+         style="fill:#000000" />
+      <path
+         d="M -6.657968,1052.3622 A 6.657968,6.657968 0 0 0 0,1045.7042 l 0,6.658 -6.657968,0 z"
+         id="path4033"
+         style="fill:#000000" />
+    </symbol>
+    <symbol
+       id="SW_DOWELSYMBOL_13">
+      <path
+         d="m 6.657968,1052.3622 a 6.657968,6.657968 0 1 0 -13.315936,0 6.657968,6.657968 0 1 0 13.315936,0 z"
+         id="path4036"
+         style="fill:none;stroke:#000000;stroke-linecap:round" />
+      <path
+         d="M 6.657968,1052.3622 A 6.657968,6.657968 0 0 0 0,1059.0202 l 0,-6.658 6.657968,0 z"
+         id="path4038"
+         style="fill:#000000" />
+      <path
+         d="M -6.657968,1052.3622 A 6.657968,6.657968 0 0 0 0,1045.7042 l 0,6.658 -6.657968,0 z"
+         id="path4040"
+         style="fill:#000000" />
+    </symbol>
+    <symbol
+       id="SW_DOWELSYMBOL_14">
+      <path
+         d="m 6.657968,1052.3622 a 6.657968,6.657968 0 1 0 -13.315936,0 6.657968,6.657968 0 1 0 13.315936,0 z"
+         id="path4043"
+         style="fill:none;stroke:#000000;stroke-linecap:round" />
+      <path
+         d="M 6.657968,1052.3622 A 6.657968,6.657968 0 0 0 0,1059.0202 l 0,-6.658 6.657968,0 z"
+         id="path4045"
+         style="fill:#000000" />
+      <path
+         d="M -6.657968,1052.3622 A 6.657968,6.657968 0 0 0 0,1045.7042 l 0,6.658 -6.657968,0 z"
+         id="path4047"
+         style="fill:#000000" />
+    </symbol>
+    <symbol
+       id="SW_DOWELSYMBOL_15">
+      <path
+         d="m 6.657968,1052.3622 a 6.657968,6.657968 0 1 0 -13.315936,0 6.657968,6.657968 0 1 0 13.315936,0 z"
+         id="path4050"
+         style="fill:none;stroke:#000000;stroke-linecap:round" />
+      <path
+         d="M 6.657968,1052.3622 A 6.657968,6.657968 0 0 0 0,1059.0202 l 0,-6.658 6.657968,0 z"
+         id="path4052"
+         style="fill:#000000" />
+      <path
+         d="M -6.657968,1052.3622 A 6.657968,6.657968 0 0 0 0,1045.7042 l 0,6.658 -6.657968,0 z"
+         id="path4054"
+         style="fill:#000000" />
+    </symbol>
+    <symbol
+       id="SW_DOWELSYMBOL_16">
+      <path
+         d="m 6.657968,1052.3622 a 6.657968,6.657968 0 1 0 -13.315936,0 6.657968,6.657968 0 1 0 13.315936,0 z"
+         id="path4057"
+         style="fill:none;stroke:#000000;stroke-linecap:round" />
+      <path
+         d="M 6.657968,1052.3622 A 6.657968,6.657968 0 0 0 0,1059.0202 l 0,-6.658 6.657968,0 z"
+         id="path4059"
+         style="fill:#000000" />
+      <path
+         d="M -6.657968,1052.3622 A 6.657968,6.657968 0 0 0 0,1045.7042 l 0,6.658 -6.657968,0 z"
+         id="path4061"
+         style="fill:#000000" />
+    </symbol>
+    <symbol
+       id="SW_DOWELSYMBOL_17">
+      <path
+         d="m 6.657968,1052.3622 a 6.657968,6.657968 0 1 0 -13.315936,0 6.657968,6.657968 0 1 0 13.315936,0 z"
+         id="path4064"
+         style="fill:none;stroke:#000000;stroke-linecap:round" />
+      <path
+         d="M 6.657968,1052.3622 A 6.657968,6.657968 0 0 0 0,1059.0202 l 0,-6.658 6.657968,0 z"
+         id="path4066"
+         style="fill:#000000" />
+      <path
+         d="M -6.657968,1052.3622 A 6.657968,6.657968 0 0 0 0,1045.7042 l 0,6.658 -6.657968,0 z"
+         id="path4068"
+         style="fill:#000000" />
+    </symbol>
+    <symbol
+       id="SW_DOWELSYMBOL_18">
+      <path
+         d="m 6.657968,1052.3622 a 6.657968,6.657968 0 1 0 -13.315936,0 6.657968,6.657968 0 1 0 13.315936,0 z"
+         id="path4071"
+         style="fill:none;stroke:#000000;stroke-linecap:round" />
+      <path
+         d="M 6.657968,1052.3622 A 6.657968,6.657968 0 0 0 0,1059.0202 l 0,-6.658 6.657968,0 z"
+         id="path4073"
+         style="fill:#000000" />
+      <path
+         d="M -6.657968,1052.3622 A 6.657968,6.657968 0 0 0 0,1045.7042 l 0,6.658 -6.657968,0 z"
+         id="path4075"
+         style="fill:#000000" />
+    </symbol>
+    <symbol
+       id="SW_DOWELSYMBOL_19">
+      <path
+         d="m 6.657968,1052.3622 a 6.657968,6.657968 0 1 0 -13.315936,0 6.657968,6.657968 0 1 0 13.315936,0 z"
+         id="path4078"
+         style="fill:none;stroke:#000000;stroke-linecap:round" />
+      <path
+         d="M 6.657968,1052.3622 A 6.657968,6.657968 0 0 0 0,1059.0202 l 0,-6.658 6.657968,0 z"
+         id="path4080"
+         style="fill:#000000" />
+      <path
+         d="M -6.657968,1052.3622 A 6.657968,6.657968 0 0 0 0,1045.7042 l 0,6.658 -6.657968,0 z"
+         id="path4082"
+         style="fill:#000000" />
+    </symbol>
+    <symbol
+       id="SW_DOWELSYMBOL_20">
+      <path
+         d="m 6.657968,1052.3622 a 6.657968,6.657968 0 1 0 -13.315936,0 6.657968,6.657968 0 1 0 13.315936,0 z"
+         id="path4085"
+         style="fill:none;stroke:#000000;stroke-linecap:round" />
+      <path
+         d="M 6.657968,1052.3622 A 6.657968,6.657968 0 0 0 0,1059.0202 l 0,-6.658 6.657968,0 z"
+         id="path4087"
+         style="fill:#000000" />
+      <path
+         d="M -6.657968,1052.3622 A 6.657968,6.657968 0 0 0 0,1045.7042 l 0,6.658 -6.657968,0 z"
+         id="path4089"
+         style="fill:#000000" />
+    </symbol>
+    <symbol
+       id="SW_DOWELSYMBOL_21">
+      <path
+         d="m 6.657968,1052.3622 a 6.657968,6.657968 0 1 0 -13.315936,0 6.657968,6.657968 0 1 0 13.315936,0 z"
+         id="path4092"
+         style="fill:none;stroke:#000000;stroke-linecap:round" />
+      <path
+         d="M 6.657968,1052.3622 A 6.657968,6.657968 0 0 0 0,1059.0202 l 0,-6.658 6.657968,0 z"
+         id="path4094"
+         style="fill:#000000" />
+      <path
+         d="M -6.657968,1052.3622 A 6.657968,6.657968 0 0 0 0,1045.7042 l 0,6.658 -6.657968,0 z"
+         id="path4096"
+         style="fill:#000000" />
+    </symbol>
+    <symbol
+       id="SW_DOWELSYMBOL_22">
+      <path
+         d="m 6.657968,1052.3622 a 6.657968,6.657968 0 1 0 -13.315936,0 6.657968,6.657968 0 1 0 13.315936,0 z"
+         id="path4099"
+         style="fill:none;stroke:#000000;stroke-linecap:round" />
+      <path
+         d="M 6.657968,1052.3622 A 6.657968,6.657968 0 0 0 0,1059.0202 l 0,-6.658 6.657968,0 z"
+         id="path4101"
+         style="fill:#000000" />
+      <path
+         d="M -6.657968,1052.3622 A 6.657968,6.657968 0 0 0 0,1045.7042 l 0,6.658 -6.657968,0 z"
+         id="path4103"
+         style="fill:#000000" />
+    </symbol>
+  </defs>
+  <g
+     id="g4105">
+    <path
+       d="m -526.26061,193.89661 a 140.83475,140.83475 0 0 0 -275.99842,0"
+       id="path4323"
+       style="fill:none;stroke:#000000;stroke-linecap:round" />
+    <path
+       d="m -597.68014,709.1992 a 66.579679,66.579679 0 1 0 -133.15936,0 66.579679,66.579679 0 1 0 133.15936,0 z"
+       id="path4325"
+       style="fill:none;stroke:#000000;stroke-linecap:round" />
+    <path
+       d="m -630.43734,975.51792 a 33.822477,33.822477 0 1 0 -67.64496,0 33.822477,33.822477 0 1 0 67.64496,0 z"
+       id="path4327"
+       style="fill:none;stroke:#000000;stroke-linecap:round" />
+    <path
+       d="m -836.33699,233.35146 a 53.263743,53.263743 0 0 0 34.07796,-39.45485"
+       id="path4329"
+       style="fill:none;stroke:#000000;stroke-linecap:round" />
+    <path
+       d="m -526.26061,193.89661 a 53.263743,53.263743 0 0 0 34.07796,39.45485"
+       id="path4331"
+       style="fill:none;stroke:#000000;stroke-linecap:round" />
+    <path
+       d="m -836.33699,233.35146 a 506.00556,506.00556 0 1 0 344.15434,0"
+       id="path4333"
+       style="fill:none;stroke:#000000;stroke-linecap:round" />
+    <path
+       d="m -647.37443,229.82552 a 16.911239,16.911239 0 1 0 -33.82247,0 16.911239,16.911239 0 1 0 33.82247,0 z"
+       id="path4335"
+       style="fill:none;stroke:#000000;stroke-linecap:round" />
+    <path
+       d="m -664.25982,709.1992 2.9375,-6.34375 0.8125,1.90625 6.84375,-6.84375 0,0 0.6875,0.6875 -6.84375,6.84375 1.90625,0.8125 z"
+       id="path4339"
+       style="fill:#ff0000;stroke:#ff0000" />
+    <path
+       d="m -1030.4481,709.1992 a 6.657968,6.657968 0 1 0 -13.3159,0 6.657968,6.657968 0 1 0 13.3159,0 z"
+       id="path4341"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round" />
+    <path
+       d="m -647.37443,229.82552 a 16.911239,16.911239 0 1 0 -33.82247,0 16.911239,16.911239 0 1 0 33.82247,0 z"
+       id="path4343"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round" />
+    <path
+       d="m -630.43734,975.51792 a 33.822477,33.822477 0 1 0 -67.64496,0 33.822477,33.822477 0 1 0 67.64496,0 z"
+       id="path4345"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round" />
+    <path
+       d="m -526.26061,193.89661 a 140.83475,140.83475 0 0 0 -275.99842,0"
+       id="path4347"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round" />
+    <path
+       d="m -526.26061,193.89661 a 53.263743,53.263743 0 0 0 34.07796,39.45485"
+       id="path4349"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round" />
+    <path
+       d="m -836.33699,233.35146 a 506.00556,506.00556 0 1 0 344.15434,0"
+       id="path4351"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round" />
+    <path
+       d="m -836.33699,233.35146 a 53.263743,53.263743 0 0 0 34.07796,-39.45485"
+       id="path4353"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round" />
+    <path
+       d="m -597.68014,709.1992 a 66.579679,66.579679 0 1 0 -133.15936,0 66.579679,66.579679 0 1 0 133.15936,0 z"
+       id="path4355"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round" />
+    <path
+       d="m -1049.6878,482.82829 a 6.657968,6.657968 0 1 0 -13.3159,0 6.657968,6.657968 0 1 0 13.3159,0 z"
+       id="path4357"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round" />
+    <path
+       d="m -657.60185,1161.941 a 6.657968,6.657968 0 1 0 -13.31594,0 6.657968,6.657968 0 1 0 13.31594,0 z"
+       id="path4359"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round" />
+    <path
+       d="m -1049.6878,935.57011 a 6.657968,6.657968 0 1 0 -13.3159,0 6.657968,6.657968 0 1 0 13.3159,0 z"
+       id="path4361"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round" />
+    <path
+       d="m -604.33811,616.94369 a 6.657968,6.657968 0 1 0 -13.31593,0 6.657968,6.657968 0 1 0 13.31593,0 z"
+       id="path4363"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round" />
+    <path
+       d="m -710.86559,616.94369 a 6.657968,6.657968 0 1 0 -13.31594,0 6.657968,6.657968 0 1 0 13.31594,0 z"
+       id="path4365"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round" />
+    <path
+       d="m -764.12934,709.1992 a 6.657968,6.657968 0 1 0 -13.31593,0 6.657968,6.657968 0 1 0 13.31593,0 z"
+       id="path4367"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round" />
+    <path
+       d="m -551.07436,709.1992 a 6.657968,6.657968 0 1 0 -13.31594,0 6.657968,6.657968 0 1 0 13.31594,0 z"
+       id="path4369"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round" />
+    <path
+       d="m -604.33811,801.45471 a 6.657968,6.657968 0 1 0 -13.31593,0 6.657968,6.657968 0 1 0 13.31593,0 z"
+       id="path4371"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round" />
+    <path
+       d="m -710.86559,801.45471 a 6.657968,6.657968 0 1 0 -13.31594,0 6.657968,6.657968 0 1 0 13.31594,0 z"
+       id="path4373"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round" />
+    <path
+       d="m -883.97276,1101.2851 a 6.657968,6.657968 0 1 0 -13.31593,0 6.657968,6.657968 0 1 0 13.31593,0 z"
+       id="path4375"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round" />
+    <path
+       d="m -431.23094,1101.2851 a 6.657968,6.657968 0 1 0 -13.31594,0 6.657968,6.657968 0 1 0 13.31594,0 z"
+       id="path4377"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round" />
+    <path
+       d="m -471.17875,1032.0935 a 6.657968,6.657968 0 1 0 -13.31594,0 6.657968,6.657968 0 1 0 13.31594,0 z"
+       id="path4379"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round" />
+    <path
+       d="m -265.51594,935.57011 a 6.657968,6.657968 0 1 0 -13.31593,0 6.657968,6.657968 0 1 0 13.31593,0 z"
+       id="path4381"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round" />
+    <path
+       d="m -204.86004,709.1992 a 6.657968,6.657968 0 1 0 -13.31593,0 6.657968,6.657968 0 1 0 13.31593,0 z"
+       id="path4383"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round" />
+    <path
+       d="m -284.75565,709.1992 a 6.657968,6.657968 0 1 0 -13.31594,0 6.657968,6.657968 0 1 0 13.31594,0 z"
+       id="path4385"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round" />
+    <path
+       d="m -265.51594,482.82829 a 6.657968,6.657968 0 1 0 -13.31593,0 6.657968,6.657968 0 1 0 13.31593,0 z"
+       id="path4387"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round" />
+    <path
+       d="m -471.17875,386.30492 a 6.657968,6.657968 0 1 0 -13.31594,0 6.657968,6.657968 0 1 0 13.31594,0 z"
+       id="path4389"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round" />
+    <path
+       d="m -431.23094,317.11329 a 6.657968,6.657968 0 1 0 -13.31594,0 6.657968,6.657968 0 1 0 13.31594,0 z"
+       id="path4391"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round" />
+    <path
+       d="m -883.97276,317.11329 a 6.657968,6.657968 0 1 0 -13.31593,0 6.657968,6.657968 0 1 0 13.31593,0 z"
+       id="path4393"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round" />
+    <path
+       d="m -844.02495,386.30492 a 6.657968,6.657968 0 1 0 -13.31594,0 6.657968,6.657968 0 1 0 13.31594,0 z"
+       id="path4395"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round" />
+    <path
+       d="m -1110.3437,709.1992 a 6.657968,6.657968 0 1 0 -13.3159,0 6.657968,6.657968 0 1 0 13.3159,0 z"
+       id="path4397"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round" />
+    <path
+       d="m -861.07611,842.35856 a 33.822477,33.822477 0 1 0 -67.64496,0 33.822477,33.822477 0 1 0 67.64496,0 z"
+       id="path4399"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round" />
+    <path
+       d="m -861.07611,576.03984 a 33.822477,33.822477 0 1 0 -67.64496,0 33.822477,33.822477 0 1 0 67.64496,0 z"
+       id="path4401"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round" />
+    <path
+       d="m -630.43734,442.88049 a 33.822477,33.822477 0 1 0 -67.64496,0 33.822477,33.822477 0 1 0 67.64496,0 z"
+       id="path4403"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round" />
+    <path
+       d="m -399.79857,576.03984 a 33.822477,33.822477 0 1 0 -67.64495,0 33.822477,33.822477 0 1 0 67.64495,0 z"
+       id="path4405"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round" />
+    <path
+       d="m -399.79857,842.35856 a 33.822477,33.822477 0 1 0 -67.64495,0 33.822477,33.822477 0 1 0 67.64495,0 z"
+       id="path4407"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round" />
+    <path
+       d="m -844.02495,1032.0935 a 6.657968,6.657968 0 1 0 -13.31594,0 6.657968,6.657968 0 1 0 13.31594,0 z"
+       id="path4409"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round" />
+    <use
+       id="use4411"
+       x="-664.25983"
+       y="-343.16299"
+       width="744.09448"
+       height="1052.3622"
+       xlink:href="#SW_CENTERMARKSYMBOL_0" />
+    <use
+       id="use4413"
+       x="-1056.3457"
+       y="-569.53394"
+       width="744.09448"
+       height="1052.3622"
+       xlink:href="#SW_DOWELSYMBOL_0" />
+    <use
+       id="use4415"
+       x="-664.25983"
+       y="109.57881"
+       width="744.09448"
+       height="1052.3622"
+       xlink:href="#SW_DOWELSYMBOL_1" />
+    <use
+       id="use4417"
+       x="-1056.3457"
+       y="-116.7921"
+       width="744.09448"
+       height="1052.3622"
+       xlink:href="#SW_DOWELSYMBOL_2" />
+    <use
+       id="use4419"
+       x="-610.99609"
+       y="-435.41852"
+       width="744.09448"
+       height="1052.3622"
+       xlink:href="#SW_DOWELSYMBOL_3" />
+    <use
+       id="use4421"
+       x="-717.52356"
+       y="-435.41852"
+       width="744.09448"
+       height="1052.3622"
+       xlink:href="#SW_DOWELSYMBOL_4" />
+    <use
+       id="use4423"
+       x="-770.78729"
+       y="-343.16299"
+       width="744.09448"
+       height="1052.3622"
+       xlink:href="#SW_DOWELSYMBOL_5" />
+    <use
+       id="use4425"
+       x="-557.73236"
+       y="-343.16299"
+       width="744.09448"
+       height="1052.3622"
+       xlink:href="#SW_DOWELSYMBOL_6" />
+    <use
+       id="use4427"
+       x="-610.99609"
+       y="-250.9075"
+       width="744.09448"
+       height="1052.3622"
+       xlink:href="#SW_DOWELSYMBOL_7" />
+    <use
+       id="use4429"
+       x="-717.52356"
+       y="-250.9075"
+       width="744.09448"
+       height="1052.3622"
+       xlink:href="#SW_DOWELSYMBOL_8" />
+    <use
+       id="use4431"
+       x="-850.68292"
+       y="-20.268723"
+       width="744.09448"
+       height="1052.3622"
+       xlink:href="#SW_DOWELSYMBOL_9" />
+    <use
+       id="use4433"
+       x="-890.63074"
+       y="48.922909"
+       width="744.09448"
+       height="1052.3622"
+       xlink:href="#SW_DOWELSYMBOL_10" />
+    <use
+       id="use4435"
+       x="-437.88892"
+       y="48.922909"
+       width="744.09448"
+       height="1052.3622"
+       xlink:href="#SW_DOWELSYMBOL_11" />
+    <use
+       id="use4437"
+       x="-477.83673"
+       y="-20.268723"
+       width="744.09448"
+       height="1052.3622"
+       xlink:href="#SW_DOWELSYMBOL_12" />
+    <use
+       id="use4439"
+       x="-272.17392"
+       y="-116.7921"
+       width="744.09448"
+       height="1052.3622"
+       xlink:href="#SW_DOWELSYMBOL_13" />
+    <use
+       id="use4441"
+       x="-211.51801"
+       y="-343.16299"
+       width="744.09448"
+       height="1052.3622"
+       xlink:href="#SW_DOWELSYMBOL_14" />
+    <use
+       id="use4443"
+       x="-291.4136"
+       y="-343.16299"
+       width="744.09448"
+       height="1052.3622"
+       xlink:href="#SW_DOWELSYMBOL_15" />
+    <use
+       id="use4445"
+       x="-272.17392"
+       y="-569.53394"
+       width="744.09448"
+       height="1052.3622"
+       xlink:href="#SW_DOWELSYMBOL_16" />
+    <use
+       id="use4447"
+       x="-477.83673"
+       y="-666.05731"
+       width="744.09448"
+       height="1052.3622"
+       xlink:href="#SW_DOWELSYMBOL_17" />
+    <use
+       id="use4449"
+       x="-437.88892"
+       y="-735.2489"
+       width="744.09448"
+       height="1052.3622"
+       xlink:href="#SW_DOWELSYMBOL_18" />
+    <use
+       id="use4451"
+       x="-890.63074"
+       y="-735.2489"
+       width="744.09448"
+       height="1052.3622"
+       xlink:href="#SW_DOWELSYMBOL_19" />
+    <use
+       id="use4453"
+       x="-850.68292"
+       y="-666.05731"
+       width="744.09448"
+       height="1052.3622"
+       xlink:href="#SW_DOWELSYMBOL_20" />
+    <use
+       id="use4455"
+       x="-1037.1061"
+       y="-343.16299"
+       width="744.09448"
+       height="1052.3622"
+       xlink:href="#SW_DOWELSYMBOL_21" />
+    <use
+       id="use4457"
+       x="-1117.0016"
+       y="-343.16299"
+       width="744.09448"
+       height="1052.3622"
+       xlink:href="#SW_DOWELSYMBOL_22" />
+  </g>
+  <g
+     id="g4459" />
+</svg>

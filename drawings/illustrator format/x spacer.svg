@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="744.09448"
+   height="1052.3622"
+   id="svg2985">
+  <desc
+     id="desc2987">C:\Users\groot\Dropbox\braider project\drawings\dxf format\x spacer.DXF - scale = 19.090909</desc>
+  <metadata
+     id="metadata3337">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs2989">
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="DistanceX"
+       style="overflow:visible">
+      <path
+         d="M 3,-3 -3,3 M 0,-5 0,5"
+         id="path2992"
+         style="stroke:#000000;stroke-width:0.5" />
+    </marker>
+    <pattern
+       id="Hatch"
+       x="0"
+       y="0"
+       patternUnits="userSpaceOnUse"
+       width="8"
+       height="8">
+      <path
+         id="path2995"
+         d="M8 4 l-4,4"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square" />
+      <path
+         id="path2997"
+         d="M6 2 l-4,4"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square" />
+      <path
+         id="path2999"
+         d="M4 0 l-4,4"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square" />
+    </pattern>
+    <symbol
+       id="*Model_Space" />
+    <symbol
+       id="*Paper_Space" />
+    <symbol
+       id="*Paper_Space0" />
+    <symbol
+       id="SW_NOTE_0">
+      <text
+         x="0"
+         y="1047.1302"
+         id="text3005"
+         style="font-size:4.0999999px;line-height:125%;fill:#000000;font-family:Arial">
+        <tspan
+           x="0"
+           y="1047.1302"
+           id="tspan3007">INTERPRET GEOMETRIC</tspan>
+      </text>
+      <text
+         x="0"
+         y="1053.8522"
+         id="text3009"
+         style="font-size:4.0999999px;line-height:125%;fill:#000000;font-family:Arial">
+        <tspan
+           x="0"
+           y="1053.8522"
+           id="tspan3011">TOLERANCING PER:</tspan>
+      </text>
+    </symbol>
+    <symbol
+       id="SW_NOTE_1">
+      <text
+         x="0"
+         y="1046.6942"
+         id="text3014"
+         style="font-size:4.4000001px;line-height:125%;fill:#000000;font-family:Arial">
+        <tspan
+           x="0"
+           y="1046.6942"
+           id="tspan3016">DIMENSIONS ARE IN INCHES</tspan>
+      </text>
+      <text
+         x="0"
+         y="1053.7544"
+         id="text3018"
+         style="font-size:4.4000001px;line-height:125%;fill:#000000;font-family:Arial">
+        <tspan
+           x="0"
+           y="1053.7544"
+           id="tspan3020">TOLERANCES:</tspan>
+      </text>
+      <text
+         x="0"
+         y="1060.8145"
+         id="text3022"
+         style="font-size:4.4000001px;line-height:125%;fill:#000000;font-family:Arial">
+        <tspan
+           x="0"
+           y="1060.8145"
+           id="tspan3024">FRACTIONAL</tspan>
+      </text>
+      <text
+         x="35.012016"
+         y="1060.8145"
+         id="text3026"
+         style="font-size:4.4000001px;line-height:125%;fill:#000000;font-family:Arial">
+        <tspan
+           x="35.012016"
+           y="1060.8145"
+           id="tspan3028">%%p</tspan>
+      </text>
+      <text
+         x="0"
+         y="1067.8746"
+         id="text3030"
+         style="font-size:4.4000001px;line-height:125%;fill:#000000;font-family:Arial">
+        <tspan
+           x="0"
+           y="1067.8746"
+           id="tspan3032">ANGULAR: MACH</tspan>
+      </text>
+      <text
+         x="48.932552"
+         y="1067.8746"
+         id="text3034"
+         style="font-size:4.4000001px;line-height:125%;fill:#000000;font-family:Arial">
+        <tspan
+           x="48.932552"
+           y="1067.8746"
+           id="tspan3036">%%p</tspan>
+      </text>
+      <text
+         x="61.364849"
+         y="1067.8746"
+         id="text3038"
+         style="font-size:4.4000001px;line-height:125%;fill:#000000;font-family:Arial">
+        <tspan
+           x="61.364849"
+           y="1067.8746"
+           id="tspan3040">BEND</tspan>
+      </text>
+      <text
+         x="77.645668"
+         y="1067.8746"
+         id="text3042"
+         style="font-size:4.4000001px;line-height:125%;fill:#000000;font-family:Arial">
+        <tspan
+           x="77.645668"
+           y="1067.8746"
+           id="tspan3044">%%p</tspan>
+      </text>
+      <text
+         x="0"
+         y="1074.9347"
+         id="text3046"
+         style="font-size:4.4000001px;line-height:125%;fill:#000000;font-family:Arial">
+        <tspan
+           x="0"
+           y="1074.9347"
+           id="tspan3048">TWO PLACE DECIMAL</tspan>
+      </text>
+      <text
+         x="66.25383"
+         y="1074.9347"
+         id="text3050"
+         style="font-size:4.4000001px;line-height:125%;fill:#000000;font-family:Arial">
+        <tspan
+           x="66.25383"
+           y="1074.9347"
+           id="tspan3052">%%p</tspan>
+      </text>
+      <text
+         x="0"
+         y="1081.9949"
+         id="text3054"
+         style="font-size:4.4000001px;line-height:125%;fill:#000000;font-family:Arial">
+        <tspan
+           x="0"
+           y="1081.9949"
+           id="tspan3056">THREE PLACE DECIMAL</tspan>
+      </text>
+      <text
+         x="65.87291"
+         y="1081.9949"
+         id="text3058"
+         style="font-size:4.4000001px;line-height:125%;fill:#000000;font-family:Arial">
+        <tspan
+           x="65.87291"
+           y="1081.9949"
+           id="tspan3060">%%p</tspan>
+      </text>
+    </symbol>
+    <symbol
+       id="SW_NOTE_2">
+      <text
+         x="0"
+         y="1047.1302"
+         id="text3063"
+         style="font-size:4.0999999px;line-height:125%;fill:#000000;font-family:Arial">
+        <tspan
+           x="0"
+           y="1047.1302"
+           id="tspan3065">THE INFORMATION CONTAINED IN THIS</tspan>
+      </text>
+      <text
+         x="0"
+         y="1053.8522"
+         id="text3067"
+         style="font-size:4.0999999px;line-height:125%;fill:#000000;font-family:Arial">
+        <tspan
+           x="0"
+           y="1053.8522"
+           id="tspan3069">DRAWING IS THE SOLE PROPERTY OF</tspan>
+      </text>
+      <text
+         x="0"
+         y="1060.5741"
+         id="text3071"
+         style="font-size:4.0999999px;line-height:125%;fill:#000000;font-family:Arial">
+        <tspan
+           x="0"
+           y="1060.5741"
+           id="tspan3073">&lt;INSERT COMPANY NAME HERE&gt;. ANY</tspan>
+      </text>
+      <text
+         x="0"
+         y="1067.2959"
+         id="text3075"
+         style="font-size:4.0999999px;line-height:125%;fill:#000000;font-family:Arial">
+        <tspan
+           x="0"
+           y="1067.2959"
+           id="tspan3077">REPRODUCTION IN PART OR AS A WHOLE</tspan>
+      </text>
+      <text
+         x="0"
+         y="1074.0178"
+         id="text3079"
+         style="font-size:4.0999999px;line-height:125%;fill:#000000;font-family:Arial">
+        <tspan
+           x="0"
+           y="1074.0178"
+           id="tspan3081">WITHOUT THE WRITTEN PERMISSION OF</tspan>
+      </text>
+      <text
+         x="0"
+         y="1080.7397"
+         id="text3083"
+         style="font-size:4.0999999px;line-height:125%;fill:#000000;font-family:Arial">
+        <tspan
+           x="0"
+           y="1080.7397"
+           id="tspan3085">&lt;INSERT COMPANY NAME HERE&gt; IS</tspan>
+      </text>
+      <text
+         x="0"
+         y="1087.4615"
+         id="text3087"
+         style="font-size:4.0999999px;line-height:125%;fill:#000000;font-family:Arial">
+        <tspan
+           x="0"
+           y="1087.4615"
+           id="tspan3089">PROHIBITED.</tspan>
+      </text>
+    </symbol>
+  </defs>
+  <g
+     id="g3091">
+    <path
+       d="m 227.03324,657.72575 -0.64241,-35.21932"
+       id="path3309"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round" />
+    <path
+       d="M 257.21287,675.89176 227.03324,657.72575"
+       id="path3311"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round" />
+    <path
+       d="m 247.051,693.08826 a 42.215781,42.215781 0 0 0 10.16187,-17.1965"
+       id="path3313"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round" />
+    <path
+       d="m 226.7899,680.89251 20.2611,12.19575"
+       id="path3315"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round" />
+    <path
+       d="m 227.22119,704.53701 -0.43129,-23.6445"
+       id="path3317"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round" />
+    <path
+       d="m 207.24765,704.73919 a 42.215781,42.215781 0 0 0 19.97354,-0.20218"
+       id="path3319"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round" />
+    <path
+       d="m 206.60524,669.51987 0.64241,35.21932"
+       id="path3321"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round" />
+    <path
+       d="m 176.42561,651.35386 30.17963,18.16601"
+       id="path3323"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round" />
+    <path
+       d="m 186.58748,634.15736 a 42.215781,42.215781 0 0 0 -10.16187,17.1965"
+       id="path3325"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round" />
+    <path
+       d="m 206.84858,646.35311 -20.2611,-12.19575"
+       id="path3327"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round" />
+    <path
+       d="m 206.41729,622.70861 0.43129,23.6445"
+       id="path3329"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round" />
+    <path
+       d="m 226.39083,622.50643 a 42.215781,42.215781 0 0 0 -19.97354,0.20218"
+       id="path3331"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round" />
+  </g>
+  <g
+     id="g3333" />
+</svg>
